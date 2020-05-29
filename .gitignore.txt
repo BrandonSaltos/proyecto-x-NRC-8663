@@ -1,0 +1,5 @@
+documentoz
+usuarios.xlsx
+*.obj
+*.exe
+text.txt
